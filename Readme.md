@@ -3,3 +3,4 @@
 
 ### First Part - Python Basics
 ### Second Part - Control Flow
+### Third Part - Functions, Iterables and Generators, Lambdas
